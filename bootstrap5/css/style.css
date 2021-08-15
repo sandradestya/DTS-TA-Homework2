@@ -1,0 +1,84 @@
+* {
+   font-family: "Montserrat", sans-serif;
+}
+
+header .container {
+   margin-top: 200px;
+   margin-bottom: 100px;
+}
+
+header h1 {
+   font-weight: 700;
+   size: 44px;
+   padding-bottom: 40px;
+}
+
+header p1 {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 23.5px;
+}
+
+#about .container {
+   padding-top: 50px;
+}
+
+#about li {
+   padding-bottom: 10px;
+   font-size: 16px;
+   line-height: 19.36px;
+   letter-spacing: 5%;
+   font-weight: 400;
+}
+
+.school h6 {
+   font-size: 14px;
+   line-height: 16.94px;
+   letter-spacing: 1.5%;
+}
+
+.school span {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 14.52px;
+   margin-bottom: 6px;
+}
+
+.school li {
+   font-size: 12px;
+   padding-bottom: 6px;
+}
+
+#project .container {
+   padding-top: 50px;
+}
+
+#project img {
+   width: 246px;
+   height: 180px;
+}
+
+#project h1 {
+   font-weight: 700;
+   font-style: normal;
+   font-size: 30px;
+   line-height: 44.06px;
+}
+
+#project span {
+   background-color: #142850;
+}
+
+#project h6 {
+   font-weight: 400;
+   font-style: normal;
+   font-size: 20px;
+   line-height: 29.38px;
+}
+
+#project p {
+   font-weight: 400;
+   font-style: normal;
+   font-size: 16px;
+   line-height: 23.5px;
+}
